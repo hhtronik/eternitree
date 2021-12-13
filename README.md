@@ -17,4 +17,4 @@ LICENCE
 
 This hardware part of this project is licenced under CERN Open Hardware Licence Version 2 - Strongly Reciprocal see LICENCE file for the full text.
 
-The firmware is released und GPL-v3 see LICENCE file in `/firmware` for the full text.
+The firmware is released und GPL-v2 see LICENCE file in `/firmware` for the full text.
